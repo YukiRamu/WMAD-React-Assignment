@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAC,MAAM;EACtB,cAAc,EAAE,GAAG;EACnB,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,0BAA0B;EAClC,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "Box.scss"
+    ],
+    "names": [],
+    "file": "Box.css"
+}

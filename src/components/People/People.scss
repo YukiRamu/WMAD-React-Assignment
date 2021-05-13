@@ -1,0 +1,20 @@
+.People {
+  ul {
+    list-style: none;
+    li {
+      span {
+        color: royalblue;
+        font-weight: bold;
+        font-size: 1.5rem;
+      }
+    }
+  }
+  .clickMeBtn {
+    background-color: white;
+    border: 0.3rem plum double;
+    padding: 0.5rem 1rem;
+    &:hover {
+      background-color: plum;
+    }
+  }
+}
